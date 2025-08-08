@@ -1,5 +1,7 @@
 # Factorio QoL Age: Space Age
 
+[![Github Source Code](https://img.shields.io/badge/GitHub-Source%20Code-blue)](https://github.com/Ingo-Igel/factorio_qol_age_space_age) [![Downloads](https://img.shields.io/badge/dynamic/json?color=orange&label=Factorio%20Mod%20Portal&query=downloads_count&suffix=%20downloads&url=https%3A%2F%2Fmods.factorio.com%2Fapi%2Fmods%2Ffactorio_qol_age_space_age)](https://mods.factorio.com/mod/factorio_qol_age_space_age)
+
 This mod pack contains various QoL mods for the Space Age DLC and Base Game that I personally use.
 
 All QoL Mods that do not require the Space Age DLC can be found in [Factorio QoL Age: Base Game](https://mods.factorio.com/mod/factorio_qol_age_base_game).
