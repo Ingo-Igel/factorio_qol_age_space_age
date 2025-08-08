@@ -10,5 +10,17 @@
 	"space-age >= 2.0.23",
 	"factorio_qol_age_base_game"
 	],
-    "description": "This mod pack contains various QoL mods for the Space Age DLC and Base Game that I personally use."
+    "description": "This mod pack contains various QoL mods for the Space Age DLC and Base Game that I personally use.",
+	"properties": {
+		"package": {
+			"gallery": [
+				".gallery/thumbnail_huge.png"
+			],
+			"prune_gallery": true,
+			"readme": "README.md",
+			"no_git_push": true,
+			"no_git_tag": true,
+			"sync_portal_details": true
+		}
+	}
 }
